@@ -13,7 +13,7 @@
 
 このインフラ構成図は「ユーザの日々の学習を記録しておく日報アプリ」を想定しております。
 
-images/portfolio.png
+![構成図](images/portfolio.png)
 
 ## アプリの作成理由
 
